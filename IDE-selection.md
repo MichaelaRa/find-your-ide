@@ -2,20 +2,20 @@
 
 # Considerations:
 
-- Environment - what other applications are we using? 
+- **Environment** - what other applications are we using? 
     - github
     - Windows 10
-- What programming languages are we using? 
+- What **programming languages** are we using? 
     - HTML, CSS, JS
-- Collaboration on code and projects enabled
-- Easy on the eye
-- Support for other languages or applications used in future projects (C#, Java)
+- **Collaboration** on code and projects enabled
+- Easy on the **eye**
+- **Support** for other languages or applications used in future projects (C#, Java)
 - Previously used IDEs: 
     - Visual Studio
     - Cloud9
     - IntelliJ
     - Notepad++
-- Must be free!
+- Must be **free**!
 - Is commonly used in business
 
 # List of 'most popular' and 'best' IDEs for 2019 consolidated
@@ -131,12 +131,12 @@ WebStorm IDE The leading IDE development company, JetBrains, targeted JavaScript
 -    Git integration
 -    Refactoring for JavaScript, TypeScript, and stylesheet languages
 WebStorm also gives you one place within the IDE where you can run Grunt, Gulp, and NPM tasks. It takes advantage of intelligent support and increases your productivity with its automation. Additionally, it has a  cool feature called secret service or Spy.js, where you don’t have logs to trace, debug, and profile. The feature triggers a node.js server into running a proxy that will intercept all browser traffic and enable you to edit a JS file as you go.
-Note: Downloaded it for review and only 30 days free, hence not meeting requirements!
+*Note: Downloaded it for review and only 30 days free, hence not meeting requirements!*
 
 (from https://dzone.com/articles/the-5-most-popular-code-editors-for-2018 and https://tms-outsource.com/blog/posts/web-development-ide/))
 
 ## What is popular in the industry?
-The index is based on an analysis of how often IDEs are searched on in Google, similar to PYPL’s monthly language popularity index. The more searches for an IDE, the more popular it is presumed to be. The 10 most popular IDEs for 2017:
+The index is based on an analysis of how often IDEs are searched on in Google, the more searches for an IDE, the more popular it is presumed to be. The 10 most popular IDEs for 2017:
 
 * Visual Studio, 22.4 percent
 * Eclipse, 20.38
